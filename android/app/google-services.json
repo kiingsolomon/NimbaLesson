@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433927512610",
+    "project_id": "nimbalesson1",
+    "storage_bucket": "nimbalesson1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433927512610:android:ff89dfee16f84dd371e07b",
+        "android_client_info": {
+          "package_name": "com.flutter.nimbalesson"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsn553atx-XyN-E-cS7cGLAGqcdK2Eses"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
